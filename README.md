@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jonathan Rodriguez, I'm a young software engineer working in Monterrey, NL, México
+My name is Jonathan Rodriguez, I'm a young software developer working in Monterrey, NL, México
 
 - 🔭 I’m currently working on MERN stack projects
 - 🐋 I’m currently learning DevOps

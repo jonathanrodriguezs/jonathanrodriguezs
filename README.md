@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="200" height="200" src="personal_website.gif">
+<img align="right" width="200" height="200" src="./personal_website.gif">
 
 My name is Jonathan Rodriguez, I'm a young software developer working in Monterrey, NL, México
 

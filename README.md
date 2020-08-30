@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/jonathanrodriguezs/jonathanrodriguezs/master/personal_website.gif">
-
+<a href="http://jonathan.webscriptero.com">
+  <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/jonathanrodriguezs/jonathanrodriguezs/master/personal_website.gif">
+</a>
 My name is Jonathan Rodriguez, I'm a young software developer working in Monterrey, NL, México
 
 - 🔭 I’m currently working on MERN stack projects

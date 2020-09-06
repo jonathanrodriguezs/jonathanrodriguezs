@@ -6,7 +6,6 @@
 - 💻 Waste a little time generating cat images from my terminal: https://webscriptero.com
 - 📫 Reach me at jonathan.rodriguez.sanchez@u-erre.mx
 
-<hr />
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanrodriguezs&hide=html&layout=compact" />
 </p>
